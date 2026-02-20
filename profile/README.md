@@ -17,7 +17,7 @@ A Modular BSP is a lightweight board support package tailored for Yocto-based Io
 
 * [imx-manifests](https://github.com/Advantech-EECC/imx-manifest): Helps coordinate multiple layers and components in i.MX Yocto builds.
 * [bsp-registry](https://github.com/Advantech-EECC/bsp-registry): Advantech BSP configurations registry.
-* [meta-eecc-nxp](https://github.com/Advantech-EECC/meta-eecc-nxp): Yocto meta-layer for NXP-based Advantech platforms. Supports building custom Linux distributions for embedded devices.
+* [meta-modular-bsp-nxp](https://github.com/Advantech-EECC/meta-modular-bsp-nxp): Yocto meta-layer for NXP-based Advantech platforms. Supports building custom Linux distributions for embedded devices.
 * [linux-imx](https://github.com/Advantech-EECC/linux-imx): Fork of the i.MX Linux kernel source. Tailored for Advantech's ARM-based platforms.
 
 ## Contributing 
