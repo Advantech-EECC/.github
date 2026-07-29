@@ -8,7 +8,7 @@ A Modular BSP is a lightweight board support package tailored for Yocto-based Io
 
 ### Supported Hardware
 
-* [AOM-5521](https://www.advantech.com/en-eu/products/77b59009-31a9-4751-bee1-45827a844421/aom-5521/mod_75b36e99-ac3f-4801-8b2b-1706ade1025d)(`aom5521-db2510` NXP i.MX 95)
+* [AOM-5521 A1](https://www.advantech.com/en-eu/products/77b59009-31a9-4751-bee1-45827a844421/aom-5521/mod_75b36e99-ac3f-4801-8b2b-1706ade1025d)(`aom5521a1-db2510` NXP i.MX 95)
 * [ROM-2820](https://www.advantech.com/en/products/8fc6f753-ca1d-49f9-8676-10d53129570f/rom-2820/mod_bb82922e-d3a2-49d7-80ff-dc57f400185e?gad_source=1&gad_campaignid=19833722581&gclid=EAIaIQobChMIpeeb5bfzjgMVJZODBx2WIjDNEAAYAiAAEgIJFfD_BwE) (`rom2820-ed93` NXP i.MX 93)
 * [ROM-2620](https://www.advantech.com/en-eu/products/8fc6f753-ca1d-49f9-8676-10d53129570f/rom-2620/mod_294031c8-4a21-4b95-adf2-923c412ef761) (`rom2620-ed91` NXP i.MX 8ULP)
 * [ROM-5721](https://www.advantech.com/en-eu/products/77b59009-31a9-4751-bee1-45827a844421/rom-5721/mod_271dbc68-878b-486d-85cf-30cc9f1f8f16) (`rom5721-db5901` NXP i.MX 8M Mini)
